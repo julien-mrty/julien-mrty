@@ -28,6 +28,7 @@
 
 <h1 align="center">Hi, I'm Julien from France</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=julien-mrty&label=Profile%20views&color=0e75b6&style=flat" alt="julien-mrty" /> </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -36,7 +37,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 **Julien Marty** — 5th‑year student in Computer Science & Mathematical Engineering at **Polytech Paris‑Saclay**, apprenticing at **Naval Group**. I love **applied AI**: taking models from notebooks to production and solving real‑world problems.
 
@@ -47,10 +48,10 @@
 
 ---
 
-## 🤝 Connect
+## Let's connect
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/\*\*julien-mrty\*\*/](https://www.linkedin.com/in/**julien-mrty**/)
-* 🧑‍💻 **GitHub:** [https://github.com/\*\*julien-mrty](https://github.com/**julien-mrty)\*\*
+* <a href="https://linkedin.com/in/julien-mrty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-mrty" height="30" width="40" /></a>
+* <a href="https://www.leetcode.com/julien__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julien__" height="30" width="40" /></a>
 
 ---
 
@@ -60,7 +61,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -122,7 +123,7 @@
 
 ---
 
-## 📚 Education
+## Education
 
 * **Polytech Paris‑Saclay** — M.Sc Computer Science & Applied Mathematics, 5th year (Apprenticeship). **Graduated:** *Aug 2025*.
 

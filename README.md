@@ -10,7 +10,7 @@
 
 ## About Me
 
-* Backend Software Engineer (Java | Python)
+* Software Engineer (Java | Python)
 * M.Sc in Computer Science & Applied Mathematics: Graduated **August 2025** (**4 years of apprenticeship experience**)
 * Self‑taught in ML via **Stanford CS229**
 * Team player (7 years playing **basketball** in club)

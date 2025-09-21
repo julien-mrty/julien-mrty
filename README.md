@@ -56,6 +56,12 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julien-mrty&show_icons=true&locale=en&layout=compact" alt="julien-mrty" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julien-mrty&show_icons=true&locale=en" alt="julien-mrty" /></p>
+
+---
+
 ## 🛠️ Languages & Tools
 
 <h3 align="left">Languages and Tools:</h3>

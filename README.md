@@ -26,9 +26,8 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FF6EC7,50:FFD166,100:06D6A0&text=Hi,%20I%27m%20Julien%20from%20France&desc=Software%20Engineer%20%E2%80%94%20Backend%20%26%20Systems%20%7C%20M.Sc.%20CS%20%26%20Applied%20Math%20%40%20Polytech%20Paris-Saclay&fontColor=111111&fontAlign=50&fontAlignY=35&descAlign=50&descAlignY=60&section=header" alt="Hi I'm Julien from France banner"/>
-</p>
+<h1 align="center">Hi, I'm Julien from France</h1>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>

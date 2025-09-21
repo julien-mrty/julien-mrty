@@ -50,8 +50,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julien-mrty&show_icons=true&locale=en" alt="julien-mrty" /></p>
 
----
-
 ## Languages & Tools
 
 <h3 align="left">Languages and Tools:</h3>
@@ -111,8 +109,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
 </p>
-
----
 
 ## Education
 

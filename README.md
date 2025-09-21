@@ -30,13 +30,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julien-mrty&label=Profile%20views&color=0e75b6&style=flat" alt="julien-mrty" /> </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="#open-to-opportunities"><img alt="Open to Roles" src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Applied%20AI-3fb950?style=for-the-badge&logo=briefcase"></a>
-</p>
-
----
-
 ## About Me
 
 **Julien Marty**
@@ -47,15 +40,11 @@
 * Team player (7 years of competitive **basketball**)
 * Personal interest: Long‑term investing  (**ETFs** with a **DCA** strategy, **Cryptocurrencies**, **Real Estate** to use leverrage)
 
----
-
 ## Let's connect
 
 <p align="left">
 <a href="https://linkedin.com/in/julien-mrty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-mrty" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/julien__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julien__" height="30" width="40" /></a>
-
----
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julien-mrty&show_icons=true&locale=en&layout=compact" alt="julien-mrty" /></p>
 

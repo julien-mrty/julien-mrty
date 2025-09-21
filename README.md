@@ -52,8 +52,6 @@
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/\*\*julien-mrty\*\*/](https://www.linkedin.com/in/**julien-mrty**/)
 * 🧑‍💻 **GitHub:** [https://github.com/\*\*julien-mrty](https://github.com/**julien-mrty)\*\*
 
-> Prefer email or LinkedIn for opportunities and collaborations.
-
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julien-mrty&show_icons=true&locale=en&layout=compact" alt="julien-mrty" /></p>

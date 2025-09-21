@@ -39,19 +39,21 @@
 
 ## About Me
 
-**Julien Marty** — 5th‑year student in Computer Science & Mathematical Engineering at **Polytech Paris‑Saclay**, apprenticing at **Naval Group**. I love **applied AI**: taking models from notebooks to production and solving real‑world problems.
+**Julien Marty**
 
-* 🎓 Graduated **August 2025** (**\4 years of apprenticeship experience**)
-* 🧠 Self‑taught in ML via **Stanford CS229**; strong math foundations
-* 🏀 Team player (7 years of competitive **basketball**)
-* 💹 Personal interest: long‑term investing in **ETFs** with a **DCA** strategy
+* M.Sc in Computer Science & Applied Mathematics: Graduated **August 2025** (**4 years of apprenticeship experience**)
+* Roles: Mostly **Software Engineer**, a bit Data Scientist and DevOps
+* Self‑taught in ML via **Stanford CS229**; strong math foundations
+* Team player (7 years of competitive **basketball**)
+* Personal interest: Long‑term investing  (**ETFs** with a **DCA** strategy, **Cryptocurrencies**, **Real Estate** to use leverrage)
 
 ---
 
 ## Let's connect
 
-* <a href="https://linkedin.com/in/julien-mrty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-mrty" height="30" width="40" /></a>
-* <a href="https://www.leetcode.com/julien__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julien__" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/julien-mrty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-mrty" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/julien__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julien__" height="30" width="40" /></a>
 
 ---
 

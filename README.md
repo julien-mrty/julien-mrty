@@ -10,8 +10,8 @@
 
 ## About Me
 
+* Backend Software Engineer (Java | Python)
 * M.Sc in Computer Science & Applied Mathematics: Graduated **August 2025** (**4 years of apprenticeship experience**)
-* Roles: Mostly **Software Engineer**, a bit Data Scientist and DevOps
 * Self‑taught in ML via **Stanford CS229**
 * Team player (7 years playing **basketball** in club)
 * Personal interest: Long‑term investing  (**ETFs** with a **DCA** strategy, **Cryptocurrencies**, **Real Estate** to use leverrage)

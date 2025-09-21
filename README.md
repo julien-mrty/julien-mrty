@@ -64,11 +64,17 @@
 <strong>Languages</strong>
 
 <p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql (mysql)" width="40" height="40"/></a>
+</p>
+
+<strong>Backend</strong>
+
+<p align="left">
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
 <strong>ML / Data</strong>
@@ -79,6 +85,7 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
 <strong>Computer Vision</strong>
@@ -91,14 +98,13 @@
 
 <p align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue.js" width="40" height="40"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue.js" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://fr.wikipedia.org/wiki/React#/media/Fichier:React_Logo_SVG.svg" alt="react" width="40" height="40"/></a>
 </p>
 
-<strong>Databases & Backend</strong>
+<strong>Databases</strong>
 
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/></a>
 </p>
 
 <strong>DevOps / Infra</strong>
@@ -109,58 +115,11 @@
   <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-  <a href="https://www.amd.com/en/technologies/rocm" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amd/amd-icon.svg" alt="amd rocm" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/></a>
 </p>
-
----
-
-## 📈 GitHub Stats
-
-> Replace `YOUR_GITHUB_USERNAME` in the URLs below.
-
-<p>
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true"/>
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&card_width=320"/>
-</p>
-
-<p>
-  <img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=false"/>
-  <img height="165" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&margin-w=10&column=4"/>
-</p>
-
-<!-- Optional activity graph (can be heavy) -->
-
-<!-- <p><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&radius=8&area=true"></p> -->
-
----
-
-## 🗺️ Experience Timeline
-
-* **2025** — Practicing **system design** for interviews (including an AWS round) and using **NeetCode 150** for coding interview prep.
-* **2024–2025** — Apprentice **AI Engineer** @ **Naval Group** (complex systems; root cause analysis; frameworks specific to a **frigate combat management system**).
-* Earlier — Apprentice **Software Engineer**, **System & Network Admin**, **Volunteer Web/DB Admin**.
-
-> I’ve repeatedly handled **complex, high‑stakes issues** that required persistence and careful problem‑solving.
 
 ---
 
 ## 📚 Education
 
-* **Polytech Paris‑Saclay** — Computer Science & Mathematical Engineering, 5th year (Apprenticeship). **Graduation:** *Aug 2025*.
-
----
-
-## 🧭 What I’m Looking For
-
-* **Applied AI / ML Engineer internships** (and junior roles) — strong interest in **Switzerland** (e.g., Lausanne, Zürich).
-* Roles where I can **ship models** to production, improve **data pipelines**, and collaborate with **R\&D**.
-
-If you think I could help, let’s talk!
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2C5364,50:203A43,100:0F2027&section=footer" alt="footer wave"/>
-</p>
+* **Polytech Paris‑Saclay** — M.Sc Computer Science & Applied Mathematics, 5th year (Apprenticeship). **Graduated:** *Aug 2025*.
 

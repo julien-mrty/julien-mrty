@@ -19,7 +19,7 @@
 ## Experience Snapshot
 - **Mission-critical systems** @ Naval Group - root-cause analysis & fixes / spec writting.
 - **Performance & Observability**: k6 load testing, Prometheus + Grafana dashboards.
-- **Dev & Infra**: Spring + gRPC microservices; Docker/Compose; Linux; GitHub/GitLab.
+- **DevOps & Infra**: GitHub Actions / GitLab CI; Docker/Compose; Linux; Kubernetes.
 - **ML projects**: object detection (PyTorch), audio classification (BirdCLEF dataset), OpenCV image reconstruction.
 
 ## Stack

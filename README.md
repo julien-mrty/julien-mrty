@@ -3,9 +3,9 @@
 ## About Me
 
 - Software Engineer (Java • Python) with a backend focus  
-- M.Sc, Computer Science & Applied Mathematics — **Graduated September 2025**  
-- **4 years of apprenticeship experience** across Software Engineering
-- Self-taught in ML via **Stanford CS229 Machine Learning** coursework  
+- M.Sc, Computer Science & Applied Mathematics - Graduated September 2025  
+- 4 years of apprenticeship experience across Software Engineering
+- Self-taught in ML via Stanford CS229 Machine Learning coursework  
 - Team player (7 years of club basketball)
 
 ## Let's connect

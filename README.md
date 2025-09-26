@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Julien - Software Engineer</h1>
 
-<p align="center">
-  I build robust backend systems<br/>
-  <strong>Open to full-time Software Engineer roles in Western Europe</strong>.
-</p>
-
 ## About Me
 
 - Software Engineer (Java • Python) with a backend focus  

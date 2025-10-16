@@ -24,7 +24,7 @@
 
 ## Stack
 - **Languages:** Java, Python, C++, Bash  
-- **Backend:** Spring, gRPC/Protobuf
+- **Backend:** Spring Boot, gRPC/Protobuf
 - **Observability & Performance:** Micrometer, Prometheus, Grafana, k6  
 - **Frontend:** Vue, React  
 - **Databases:** PostgreSQL, MySQL, SQLite  

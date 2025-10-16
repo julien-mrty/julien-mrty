@@ -26,7 +26,6 @@
 - **Languages:** Java, Python, C++, Bash  
 - **Backend:** Spring Boot, gRPC/Protobuf
 - **Observability & Performance:** Micrometer, Prometheus, Grafana, k6  
-- **Frontend:** Vue, React  
 - **Databases:** PostgreSQL, MySQL, SQLite  
 - **DevOps & Infra:** Docker, Kubernetes, Linux, Git, GitHub Actions, GitLab CI
 - **ML & Data:** PyTorch, NumPy, Pandas, scikit-learn, OpenCV, Matplotlib/Seaborn  
